@@ -21,4 +21,10 @@ code {
     width: 100%;
 }
 
-#map { height: 180px; }
+#map { 
+    height: 92vh; 
+}
+
+#geosearch {
+    background-color: #0366d6;
+}
