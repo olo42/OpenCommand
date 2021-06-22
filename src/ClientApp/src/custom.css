@@ -14,8 +14,8 @@ code {
     border-color: #1861ac;
 }
 
-.card {
-    /* max-width: 18rem; */
+.no-hover:hover {
+    text-decoration: none;
 }
 
 .card-img-top {
