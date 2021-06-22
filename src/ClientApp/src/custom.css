@@ -1,5 +1,4 @@
 /* Provide sufficient contrast against white background */
-
 a {
     color: #0366d6;
 }
@@ -21,3 +20,5 @@ code {
 .card-img-top {
     width: 100%;
 }
+
+#map { height: 180px; }
