@@ -51,7 +51,7 @@ export class Home extends Component {
                       <td>Personensuche Gütersloh</td>
                       <td>12.6.2021 13:43</td>
                       <td>laufend</td>
-                      <td><a href="#">bearbeiten</a></td>
+                      <td><a href="/Mission">bearbeiten</a></td>
                     </tr>
                     <tr>
                       <th scope="row">2</th>
