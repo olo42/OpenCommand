@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import { Container } from 'reactstrap';
 
 export class Home extends Component {
   static displayName = Home.name;
 
   render() {
     return (
-      <div>
+      <Container>
         <div class="row">
           <div class="col-sm-6">
             <a href="#" class="no-hover">
@@ -73,7 +74,7 @@ export class Home extends Component {
             </div>
           </div>
         </div>
-      </div>
+      </Container>
     );
   }
 }
