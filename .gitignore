@@ -1,1 +1,3 @@
-src/app.db
+obj
+bin
+app.db
