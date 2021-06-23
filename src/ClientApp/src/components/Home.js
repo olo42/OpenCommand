@@ -10,7 +10,7 @@ export class Home extends Component {
         <div class="row">
           <div class="col-sm-6">
             <a href="#" class="no-hover">
-              <div class="card text-dark bg-light mb-3">
+              <div class="card text-dark bg-light mb-3 shadow-sm p-3 mb-5 bg-white rounded">
                 <img src="create_mission.jpg" class="card-img-top" alt="Neuen Einsatz anlegen" />
                 <div class="card-body">
                   <h5 class="card-title">Neuen Einsatz anlegen</h5>
@@ -21,7 +21,7 @@ export class Home extends Component {
           </div>
           <div class="col-sm-6">
             <a href="#" class="no-hover">
-              <div class="card text-dark bg-light mb-3">
+              <div class="card text-dark bg-light mb-3 shadow-sm p-3 mb-5 bg-white rounded">
                 <img src="einstellungen.png" class="card-img-top" alt="Neuen Einsatz anlegen" />
                 <div class="card-body">
                   <h5 class="card-title">Einstellungen</h5>
@@ -33,7 +33,7 @@ export class Home extends Component {
         </div>
         <div class="row">
           <div class="col-sm-12">
-            <div class="card text-dark bg-light mb-3">
+            <div class="card text-dark bg-light mb-3 shadow-sm p-3 mb-5 bg-white rounded">
               <div class="card-body">
                 <h5 class="card-title">Einsätze</h5>
                 <table class="table table-sm">
