@@ -1,8 +1,9 @@
-import 'bootstrap/dist/css/bootstrap.css';
+/* import 'bootstrap/dist/css/bootstrap.css'; */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App';
+import '@fontsource/roboto';
 import 'leaflet/dist/leaflet.css'
 //import registerServiceWorker from './registerServiceWorker';
 
